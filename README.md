@@ -15,7 +15,8 @@ This project is a **custom Unity Editor Window** designed to list, filter, and m
 
 1. Clone this repository:
    ```sh
-   git clone [https://github.com/yigitsariyar23/rapsodo-intern-assignment]
+   git clone https://github.com/yigitsariyar23/rapsodo-intern-assignment
+
    ```
 2. Open the project in **Unity 6000.0.40f1**.
 3. Navigate to `Tools > Custom Editor Window` in the Unity Editor to open the custom editor window.
